@@ -1,5 +1,5 @@
 {
-  "name": "@whiskerman/react-native-code-push",
+  "name": "react-native-code-push-privateserver",
   "version": "5.6.1",
   "description": "React Native plugin for the CodePush service",
   "main": "CodePush.js",
@@ -10,7 +10,7 @@
     "code",
     "push"
   ],
-  "author": "Microsoft Corporation",
+  "author": "Zhao Hai",
   "license": "MIT",
   "repository": {
     "type": "git",
